@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -tA -10
+ls -tA | -head 10
