@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -tA
+ls -tA -10
